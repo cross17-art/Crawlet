@@ -1,0 +1,4 @@
+Implement a web-cravler that crawls websites with a given depth
+links (default 8) and maximum traffic limit
+pages (10,000 by default). Crabler starts with a pre-defined URL and follows those found
+links to dive deeper. The main purpose of this crawler is to detect the presence of certain terms on a page and collect statistics.
